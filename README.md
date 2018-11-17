@@ -1,29 +1,20 @@
 # probability-101
 
-## Standard Deviation Visual
-https://www.youtube.com/watch?v=pW8GZujRcFI
+* [Standard Deviation Visual](https://www.youtube.com/watch?v=pW8GZujRcFI) (Video)
 
-## Find Percentiles for a General Continuous Random Variable - Book Reserve Problem
-https://www.youtube.com/watch?v=qo4Zj1n3Gak
+* [Find Percentiles for a General Continuous Random Variable](https://www.youtube.com/watch?v=qo4Zj1n3Gak) (Video)
 
-## Probability Density Functions / Continuous Random Variables
-https://www.youtube.com/watch?v=szjL60gAweE
+* [Probability Density Functions / Continuous Random Variables](https://www.youtube.com/watch?v=szjL60gAweE)
 
-## Poisson
-http://www.stats.ox.ac.uk/~marchini/teaching/L5/L5.notes.pdf?fbclid=IwAR21tPt0yVmXlU4CvEWRvW_uoeYUn_FIk6jADPfMsZ_B1C2qZDE20N0y5zc
+* [Poisson Distribution](http://www.stats.ox.ac.uk/~marchini/teaching/L5/L5.notes.pdf?fbclid=IwAR21tPt0yVmXlU4CvEWRvW_uoeYUn_FIk6jADPfMsZ_B1C2qZDE20N0y5zc) (PDF)
 
-## Bivariate normal distribution conditional distributions
-https://www.youtube.com/watch?v=fb8uE4NM2fc
-https://onlinecourses.science.psu.edu/stat505/node/43/
+* [Bivariate normal distribution conditional distributions](https://www.youtube.com/watch?v=fb8uE4NM2fc) (Video)
+* [Conditional distributions](https://onlinecourses.science.psu.edu/stat505/node/43/) (Article @onlinecourses.science.psu.edu)
 
-## Stats: Approximating a Binomial Prob Distribution using a Normal Distrib
-https://www.youtube.com/watch?v=rPOSpI7qMl0
-https://www.youtube.com/watch?v=LYjKrMDdWKA
+* [Approximating a Binomial Prob Distribution using a Normal Distribution](https://www.youtube.com/watch?v=rPOSpI7qMl0) (Video Part 1)
+* [Approximating a Binomial Prob Distribution using a Normal Distribution](https://www.youtube.com/watch?v=LYjKrMDdWKA) (Video Part 1)
 
-## Normal Distribution
-How to do Normal Distributions Calculations
-https://statistics.laerd.com/statistical-guides/normal-distribution-calculations.php
+* [How to do Normal Distributions Calculations](https://statistics.laerd.com/statistical-guides/normal-distribution-calculations.php) (Video)
 
-## Lecture 8: Random Variables and Their Distributions | Statistics 110
-https://www.youtube.com/watch?v=k2BB0p8byGA&index=9&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&t=0s
+* [Lecture 8: Random Variables and Their Distributions](https://www.youtube.com/watch?v=k2BB0p8byGA&index=9&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&t=0s) (Harvard Video)
 
