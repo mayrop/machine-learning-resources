@@ -1,4 +1,4 @@
-# probability-101
+# Probability Resources
 
 * [Standard Deviation Visual](https://www.youtube.com/watch?v=pW8GZujRcFI) (Video)
 
@@ -17,4 +17,9 @@
 * [How to do Normal Distributions Calculations](https://statistics.laerd.com/statistical-guides/normal-distribution-calculations.php) (Video)
 
 * [Lecture 8: Random Variables and Their Distributions](https://www.youtube.com/watch?v=k2BB0p8byGA&index=9&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&t=0s) (Harvard Video)
+
+## Statistics 110 by Harvard University
+Why this is so [popular](https://www.quora.com/Why-is-Stat-110-so-popular-at-Harvard)....
+
+* [Lecture 1: Probability and Counting](https://www.youtube.com/watch?v=KbB0FjPg0mw&index=1&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) (Video)
 
