@@ -1,5 +1,7 @@
 # Probability Resources
 
+
+
 * [Standard Deviation Visual](https://www.youtube.com/watch?v=pW8GZujRcFI) (Video)
 
 * [Find Percentiles for a General Continuous Random Variable](https://www.youtube.com/watch?v=qo4Zj1n3Gak) (Video)
@@ -19,6 +21,27 @@
 * [Lecture 8: Random Variables and Their Distributions](https://www.youtube.com/watch?v=k2BB0p8byGA&index=9&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo&t=0s) (Harvard Video)
 
 ## Statistics 110 by Harvard University
+
+* Applications of probability in history
+- Mosteller-Wallace M
+https://en.wikipedia.org/wiki/Frederick_Mosteller
+- IQSS
+- Gambling / Fermat/Pascal 1650
+Statistics is the logic of uncertaintity
+
+Sample space: set of all possible outcomes in an experiment
+Event: subset of the sample space
+
+Naive def of prob
+P(A) where A is an event 
+= # of fav outcomes / # of all possible outcomes
+
+Assumes all outcomes are equaly likely, finite sample space
+
+Counting
+Multiplication Rule
+
+
 Why this is so [popular](https://www.quora.com/Why-is-Stat-110-so-popular-at-Harvard)....
 
 * [Lecture 1: Probability and Counting](https://www.youtube.com/watch?v=KbB0FjPg0mw&index=1&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) (Video)
