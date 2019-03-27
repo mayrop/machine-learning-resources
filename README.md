@@ -15,6 +15,7 @@
 
 * [Approximating a Binomial Prob Distribution using a Normal Distribution](https://www.youtube.com/watch?v=rPOSpI7qMl0) (Video Part 1)
 * [Approximating a Binomial Prob Distribution using a Normal Distribution](https://www.youtube.com/watch?v=LYjKrMDdWKA) (Video Part 1)
+* [Continuity Corrections](https://www.youtube.com/watch?v=mjV8okVG1sc) (Video)
 
 * [How to do Normal Distributions Calculations](https://statistics.laerd.com/statistical-guides/normal-distribution-calculations.php) (Video)
 
