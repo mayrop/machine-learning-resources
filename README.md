@@ -2,6 +2,7 @@
 If you can not wait to start practicing, you can start doing so at:
 * [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) (Kaggle). Excellent free challenge to start practicing classification in machine learning.
 * [Gym: Reinforcement Learning Toolkit](https://gym.openai.com/) Nice toolkit to get started and practice Reinforcement Learning.
+* [Neural Network Playground](https://playground.tensorflow.org/) Visualization of how Neural Networks work.
 
 # :video_camera: Courses
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro) (by Google)
