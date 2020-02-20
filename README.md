@@ -63,12 +63,24 @@ If you can not wait to start practicing, you can start doing so at:
 * TensorFlow
 * Theano
 * Scikit-learn
-* *
 
+# :school: Schools
+## México. 
+* [http://inteligenciafutura.mx/](http://inteligenciafutura.mx/blog/inteligencia-artificial-aprendizaje-de-maquina-ciencia-de-datos-carreras-del-futuro)
+* [Maestría en Cómputo Estadístico](https://mce.cimat.mx/)
+
+# Data Privacy
+## México
+* [Registro Público de Usuarios (REUS)](https://www.gob.mx/tramites/ficha/registro-publico-de-usuarios-reus-para-personas-fisicas/CONDUSEF2536)
+
+## Europe
+* [GDPR](https://gdpr-info.eu/)
+
+## United States
+* [CCPA California Consumer Privacy Act](https://oag.ca.gov/privacy/ccpa)
 
 # Blogs and Articles
 * [Lexalytics Blog](https://www.lexalytics.com/lexablog/category/machine-learning)
-
 
 # Publications
 
